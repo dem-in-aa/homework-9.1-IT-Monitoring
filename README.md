@@ -23,9 +23,9 @@
 
 *Приложите скриншот.*
 
-![](img/screen_1.png)
+![](img/1.png)
 
-![](img/screen_2.png)
+![](img/2.png)
 ---
 
 ### Задание со звёздочкой*
@@ -39,15 +39,15 @@
 
 *Приложите скриншот с уведомлением.*
 
-![](img/screen_3.png)
+![](img/3.png)
 
-![](img/screen_4.png)
+![](img/4.png)
 
-![](img/screen_5.png)
+![](img/5.png)
 
-![](img/screen_6.png)
+![](img/6.png)
 
-![](img/screen_7.png)
+![](img/7.png)
 
 
 
